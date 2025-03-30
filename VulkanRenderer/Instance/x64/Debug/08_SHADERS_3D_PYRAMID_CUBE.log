@@ -1,0 +1,18 @@
+﻿  init.c
+E:\ARTR_Prj\VulkanRenderer\init.c(305,73): warning C4047: 'function': 'VkPhysicalDevice *' differs in levels of indirection from 'VkQueueFamilyProperties *'
+E:\ARTR_Prj\VulkanRenderer\init.c(305,73): warning C4024: 'vkEnumeratePhysicalDevices': different types for formal and actual parameter 3
+E:\ARTR_Prj\VulkanRenderer\init.c(563,16): warning C4101: 'enabledDeviceExtensionNames_array': unreferenced local variable
+E:\ARTR_Prj\VulkanRenderer\init.c(830,55): warning C4474: 'fprintf' : too many arguments passed for format string
+      E:\ARTR_Prj\VulkanRenderer\init.c(830,55):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+E:\ARTR_Prj\VulkanRenderer\init.c(839,29): warning C4047: '!=': 'VkPresentModeKHR *' differs in levels of indirection from 'int'
+E:\ARTR_Prj\VulkanRenderer\init.c(841,38): warning C4474: 'fprintf' : too many arguments passed for format string
+      E:\ARTR_Prj\VulkanRenderer\init.c(841,38):
+      placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  
+  VK.c
+E:\ARTR_Prj\VulkanRenderer\VK.c(363,13): warning C4013: 'createSwapchain' undefined; assuming extern returning int
+E:\ARTR_Prj\VulkanRenderer\VK.c(378,13): warning C4013: 'createImagesAndImageViews' undefined; assuming extern returning int
+  Generating Code...
+  08_SHADERS_3D_PYRAMID_CUBE.vcxproj -> E:\ARTR_Prj\VulkanRenderer\x64\Debug\Instance.exe

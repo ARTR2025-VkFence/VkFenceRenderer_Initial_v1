@@ -1,0 +1,29 @@
+
+WinMain()->Program Started successfully.
+
+Initialize()->fillInstanceExtensionNames Function is Succeded
+Initialize()->createVulkanInstance Function is Succeded********************************************************************************************
+
+Initialize()->getSupportedSurface Function is SuccededInitialize()->getPhysicalDevice Function is Succeded
+Initialize()->printVKInfo Function is Succeded
+Initialize()->createVulkanDevice Function is Succeded
+********************************************************************************************
+Initialize()->fillDeviceExtensionNames Function is Succeded
+Initialize()->createSwapchain() Function is Succeded
+Initialize()->createImagesAndImageViews() Function is Succeded
+WinMain()->Initilize Function is Succeded
+ vkDeviceWaitIdle() is Done
+
+Free swapchainImage_array images freed
+
+Free swapchainImage_array images freed
+
+ vkSwapchainKHR is Freed
+
+ vkDestroyDevice() is Done
+
+vkDestroySurfaceKHR Succeded
+
+vkDestroyInstance Succeded
+
+Uninitialize->Program Terminated Successfully.
