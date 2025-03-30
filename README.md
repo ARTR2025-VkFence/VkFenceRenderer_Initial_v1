@@ -1,4 +1,4 @@
-##**Vulkan Renderer** <br />
+## **Vulkan Renderer** <br />
 
  * This repository will be collection of Vulkan C based Engine with features such as Texture system, Material system, Noise system etc.<br />
  * These samples were developed in the early days of Vulkan and are no longer enhanced or maintained. Refer to the KhronosGroup/Vulkan-Samples repository for newer samples that are enhanced and maintained.<br />
